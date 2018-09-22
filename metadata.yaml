@@ -1,5 +1,8 @@
 _repo: The-Camp-fires-of-Napoleon-Comprising-The-Most-Brilliant-Achievemnents-of-the-Emperor-and-His__55131
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 55131-h/images/cover.jpg
 creator:
   author:
     agent_name: Watson, Henry C. (Henry Clay)
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '4002'
     url: http://www.gutenberg.org/2009/agents/4002
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55131#The-Camp-fires-of-Napoleon-Comprising-The-Most-Brilliant-Achievemnents-of-the-Emperor-and-His_
 gutenberg_issued: '2017-07-17'
 gutenberg_type: Text
 identifiers:
